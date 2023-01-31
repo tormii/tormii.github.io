@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 Disallow: /bin/
-Sitemap: https://y-zhang.cn/sitemap.xml
+Sitemap: https://tormii.github.io/xttu/
